@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IU con elementos componibles</string>
+    <string name="nombre">Marcelo Barbieri</string>
+    <string name="empleo">Animador - diseñador - programador</string>
+    <string name="telefono">979782241</string>
+    <string name="mencion">@marcelo.barbieri</string>
+    <string name="correo">marcelo7barbieri@gmail.com</string>
+    <string name="empresa">Valer Industries</string>
+    <string name="rubro">Systems and Technology</string>
+    <string name="dueño">Fabrizio Valer</string>
+</resources>
